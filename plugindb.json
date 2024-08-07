@@ -1,0 +1,17 @@
+{
+  "Aardwolf_Disarmed.xml": {
+    "name": "Aardwolf_Disarmed",
+    "description": "Handles all types of being disarmed. Handles normal, cursed, owned, and scripted event disarms.",
+    "filelink": "https://raw.githubusercontent.com/aardSzz/AardwolfPlugins/main/Aardwolf_Disarmed.xml"
+  },
+  "Aardwolf_Portal_Adder.xml": {
+    "name": "Aardwolf_Portal_Adder",
+    "description": "Creates a command to bridge dinv and mapper, making adding portals to mapper much easier to manage.",
+    "filelink": "https://raw.githubusercontent.com/aardSzz/AardwolfPlugins/main/Aardwolf_Portal_Adder.xml"
+  },
+  "szz_new_character_statmon.xml": {
+    "name": "szz_new_character_statmon",
+    "description": "Replaces old character stats/info window with a new one that contains more information, and is customizable.",
+    "filelink": "https://raw.githubusercontent.com/aardSzz/AardwolfPlugins/main/szz_new_character_statmon.xml"
+  }
+}
